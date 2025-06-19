@@ -20,4 +20,4 @@ This is a sleek and responsive weather application built with **ReactJS** and **
 ## 🌐 Live Demo
 👉 [Live Weather App](https://pamu-talwar-my-weather-app.netlify.app/)
 ## 📷 Screenshot
-![Home Page](https://github.com/pramod-talwar/Mini-Search-Engine-Like-Google-With-Chatbot/blob/main/Homepage.png) 
+![Home Page](https://raw.githubusercontent.com/pramod-talwar/react-weather-app/refs/heads/main/whether_desktop.png) 
