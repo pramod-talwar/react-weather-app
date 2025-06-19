@@ -17,9 +17,5 @@ This is a sleek and responsive weather application built with **ReactJS** and **
 - OpenWeatherMap API
 - Netlify (for deployment)
 
-## 🔧 Installation and Setup
-
-1. **Clone the Repository**
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+## 🌐 Live Demo
+👉 [Live Weather App](https://pamu-talwar-my-weather-app.netlify.app/)
