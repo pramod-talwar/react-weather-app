@@ -19,3 +19,4 @@ This is a sleek and responsive weather application built with **ReactJS** and **
 
 ## 🌐 Live Demo
 👉 [Live Weather App](https://pamu-talwar-my-weather-app.netlify.app/)
+## 📷 Screenshot
